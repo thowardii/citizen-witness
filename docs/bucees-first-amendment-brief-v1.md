@@ -48,9 +48,18 @@ CONTEXT: Texas, Buc-ee's parking lot. Officer accuses driver of speeding through
 
 **Actual conduct:** Driving through a mostly-empty Buc-ee's parking lot to reach a gas pump. No speed measurement. No posted speed limit in parking lot. Officer observed from a stationary position and claims the driver was speeding based on visual estimation alone.
 
+**Texas law on private property enforcement:** Under Texas Transportation Code, the "Rules of the Road" generally apply on highways and public places — not on purely private property like a Buc-ee's parking lot. Traffic rules only extend to private property when a statute or order explicitly extends them (e.g., owners petitioning for speed enforcement). Standard traffic tickets — including "disregarding traffic control device" — are NOT normally enforceable on private property under Texas law. Only serious offenses (DWI, reckless driving, hit-and-run) apply regardless of location. The officer's stated charge of "disregarding traffic control device" on a gas station lot is legally questionable as a basis for ANY enforcement action, let alone custodial arrest. News coverage of this specific incident confirms Texas traffic laws don't normally allow police to write standard tickets for this on private property.
+
+**This means two independent problems with the arrest:**
+1. Even if the conduct occurred, the location (private property) likely places it outside standard traffic enforcement authority
+2. Even if the charge were valid, the officer's own words establish it was imposed in retaliation for protected speech
+
+**Reckless driving — the charge he DIDN'T make:** Officer admits reckless driving (Class A) is "much much higher" and he didn't want to be "that big of a dick" (11:27, 13:45). Reckless driving IS enforceable on private property, but the officer chose not to charge it — suggesting he knew the "disregarding traffic device" charge was weaker. He effectively admitted the lesser charge was a pretext.
+
 **Nieves v. Bartlett analysis (probable cause bar):**
 - Nieves establishes that probable cause generally defeats a First Amendment retaliatory arrest claim.
-- BUT the officer's OWN WORDS defeat probable cause here:
+- BUT probable cause requires a valid offense. If "disregarding traffic control device" is not enforceable on private property, there was NO probable cause at all — independently of the speech issue.
+- AND the officer's OWN WORDS confirm retaliatory motive even if probable cause existed:
   - "I'm not gonna write some tickets but the only reason I'm not writing tickets is because I'm out of tickets right now" (3:43-3:52) — He had no intention of citing until the argument escalated.
   - "You want to go to jail? you could go to jail for this" (4:38-4:43) — Threat made DURING the protected speech, not before.
   - "I didn't have another option" (15:51) — He admits he DID have options; he chose arrest.
@@ -58,7 +67,7 @@ CONTEXT: Texas, Buc-ee's parking lot. Officer accuses driver of speeding through
 
 **Reckless driving — the charge he DIDN'T make:** Officer admits reckless driving (Class A) is "much much higher" and he didn't want to be "that big of a dick" (11:27, 13:45). He downgraded to a lesser charge he admits may not even support arrest in Texas.
 
-**Gonzalez v. Trevino objective-evidence exception:** Under Gonzalez, statistical evidence that similarly situated individuals who did NOT criticize police were NOT arrested for the same conduct satisfies the Nieves exception. Here, the officer's own words provide OBJECTIVE EVIDENCE of retaliatory motive — the body cam IS the evidence.
+**Gonzalez v. Trevino objective-evidence exception:** Under Gonzalez, statistical evidence that similarly situated individuals who did NOT criticize police were NOT arrested for the same conduct satisfies the Nieves exception. Here, the officer's own words provide OBJECTIVE EVIDENCE of retaliatory motive — the body cam IS the evidence. The private-property jurisdictional issue adds an independent second ground: if the underlying charge is legally invalid on its face, the Nieves probable-cause bar never attaches.
 
 ## SECTION 4: RIGHTS VIOLATIONS
 
